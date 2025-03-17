@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mafe acevedo</h1>
+<h1 align="center">Hi 👋, I'm maria fernanda acevedo salazar</h1>
 <h3 align="center">Hello, I'm Maria Fernanda Acevedo Salazar, I'm 15 years old, I currently live in Floridablanca/Santander, I'm from group U3 (0225) afternoon shift, my goal is to fill myself with knowledge and improve myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafe-aceved0&label=Profile%20views&color=0e75b6&style=flat" alt="mafe-aceved0" /> </p>
